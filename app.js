@@ -2,13 +2,13 @@
 // CONFIGURACIÓN DE BASE DE DATOS FIREBASE
 // ==========================================
 const firebaseConfig = {
-  apiKey: "AIzaSyCEEK1AUu1NE4yTznMMT0gb58kG-N9E8U8",
-  authDomain: "gymfinitybeta-7cadb.firebaseapp.com",
-  projectId: "gymfinitybeta-7cadb",
-  storageBucket: "gymfinitybeta-7cadb.firebasestorage.app",
-  messagingSenderId: "922755686170",
-  appId: "1:922755686170:web:445d487fe3e831cfb156a3",
-  measurementId: "G-4TVM1KNM8H"
+  apiKey: "AIzaSyCp8c5HOKmdOmIVnE5OqAVxWJs_8hGL0F8",
+  authDomain: "gymfinitybeta-7bcbf.firebaseapp.com",
+  projectId: "gymfinitybeta-7bcbf",
+  storageBucket: "gymfinitybeta-7bcbf.firebasestorage.app",
+  messagingSenderId: "469119309783",
+  appId: "1:469119309783:web:4d59d0646313ecdb149d92",
+  measurementId: "G-L8V7KXWHNY"
 };
 
 // Inicializamos la conexión a la Nube
